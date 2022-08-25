@@ -5,7 +5,10 @@
   "dependencies": {
     "@discordjs/rest": "^1.0.1",
     "discord.js": "^14.2.0",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "hot-shots": "^9.2.0",
+    "mongodb": "^4.9.0",
+    "ws": "^8.8.1"
   },
   "devDependencies": {
     "@akashics/eslint-config": "4.2.0",
