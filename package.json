@@ -1,6 +1,6 @@
 {
   "name": "nezuko",
-  "packageManager": "yarn@3.2.2",
+  "packageManager": "yarn@3.2.3",
   "main": "src/index.js",
   "dependencies": {
     "@discordjs/rest": "^1.0.1",
