@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@akashics/eslint-config": "4.2.0",
-    "eslint": "8.22.0"
+    "eslint": "8.23.0"
   },
   "scripts": {
     "deploy": "node src/deploy-commands.js",
